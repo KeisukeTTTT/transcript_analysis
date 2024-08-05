@@ -1,0 +1,10 @@
+venv
+videos
+youtube-videos
+ragtest/output
+
+**/tmp
+**/cache
+**/.env
+**/__pycache__
+**/log

@@ -1,0 +1,15 @@
+pandas
+ipykernel
+
+graphrag
+japanize-matplotlib
+
+opencv-python
+youtube-transcript-api
+google-oauth
+google-api-python-client
+google-cloud-vision
+yt-dlp
+mecab-python3
+bert-score
+rouge-score
